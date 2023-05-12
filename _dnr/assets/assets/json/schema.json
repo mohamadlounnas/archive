@@ -1,0 +1,1779 @@
+{
+  "formId": "1ZqY7DIVMUwoytsALc8VMh8bjoKBTtRO2s32AHy197_k",
+  "info": {
+    "title": "Dossier de soin informatisé ",
+    "documentTitle": " Le Dossier De Soins Informatisé "
+  },
+  "revisionId": "0000086b",
+  "responderUri": "https://docs.google.com/forms/d/e/1FAIpQLSdh6-wtiI9LZiuglLbeurzewZpGGKJ6FABTaSEXe1DURX9J2w/viewform",
+  "items": [
+    {
+      "itemId": "706576d6",
+      "textItem": {},
+      "title": "Identification du patient ",
+      "description": "Identification du patient  "
+    },
+    {
+      "itemId": "4c46ac6f",
+      "title": "Nom",
+      "questionItem": {
+        "question": {
+          "questionId": "2904fb77",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "07fa1164",
+      "title": "Prénom",
+      "questionItem": {
+        "question": {
+          "questionId": "342840be",
+          "textQuestion": {}
+        }
+      }
+    }, 
+    {
+      "itemId": "3ee403a9",
+      "title": "Age",
+      "questionItem": {
+        "question": {
+          "questionId": "47866241",
+          "textQuestion": {}
+        }
+      }
+    }, 
+    {
+      "itemId": "5ee403a5",
+      "title": "Poids",
+      "questionItem": {
+        "question": {
+          "questionId": "45566241",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5ee403a5",
+      "title": "Taille",
+      "questionItem": {
+        "question": {
+          "questionId": "45566241",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4e302cd5",
+      "title": "N°de sécurité social",
+      "questionItem": {
+        "question": {
+          "questionId": "00450fbf",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "28369aa4",
+      "title": "Groupe sanguin",
+      "questionItem": {
+        "question": {
+          "questionId": "55fe6725",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1189469a",
+      "textItem": {},
+      "title": "Service D'hospitalisation "
+    },
+    {
+      "itemId": "3ddde58d",
+      "title": "Service",
+      "questionItem": {
+        "question": {
+          "questionId": "658e02a0",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7a2fbb61",
+      "title": "N°de chambre",
+      "questionItem": {
+        "question": {
+          "questionId": "61fa7c92",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "71f62608",
+      "title": "Nom du médecin traitant ",
+      "questionItem": {
+        "question": {
+          "questionId": "54bc7d5d",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "51224c93",
+      "title": "Date d'entrée ",
+      "questionItem": {
+        "question": {
+          "questionId": "4c219711",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7bdca8c4",
+      "title": "Date de sortie",
+      "questionItem": {
+        "question": {
+          "questionId": "585272ca",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "0e4893f9",
+      "pageBreakItem": {},
+      "title": "LA FICHE D'ACCUEIL DU PATIENT  ",
+      "description": "IDENTITE"
+    },
+    {
+      "itemId": "3c8622be",
+      "title": "Nom ",
+      "questionItem": {
+        "question": {
+          "questionId": "00b43de4",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1d55834a",
+      "title": "Prénom",
+      "questionItem": {
+        "question": {
+          "questionId": "296e35d2",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "55918601",
+      "title": "Sexe",
+      "questionItem": {
+        "question": {
+          "questionId": "106e08d1",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "F"
+              },
+              {
+                "value": "M"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "65318c8e",
+      "title": "Lieu de naissance ",
+      "questionItem": {
+        "question": {
+          "questionId": "42b9c0a1",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "653cbb04",
+      "title": "Groupe sanguin ",
+      "questionItem": {
+        "question": {
+          "questionId": "745f62a5",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "A+"
+              },
+              {
+                "value": "A_"
+              },
+              {
+                "value": "B+"
+              },
+              {
+                "value": "B-"
+              },
+              {
+                "value": "AB+"
+              },
+              {
+                "value": "AB-"
+              },
+              {
+                "value": "O+"
+              },
+              {
+                "value": "O-"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "485d4ec4",
+      "title": "La date de naissance ",
+      "questionItem": {
+        "question": {
+          "questionId": "52580dae",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "52db5b3c",
+      "title": "Téléphone",
+      "questionItem": {
+        "question": {
+          "questionId": "5ca2e8d8",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "298731d3",
+      "title": "N° de matricule",
+      "questionItem": {
+        "question": {
+          "questionId": "0f7f154f",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "6cf16b67",
+      "title": "Adresse ",
+      "questionItem": {
+        "question": {
+          "questionId": "563ebd36",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2d48e9bc",
+      "title": "Situation familiale ",
+      "questionItem": {
+        "question": {
+          "questionId": "66148182",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Célibataire"
+              },
+              {
+                "value": "Marié(e)"
+              },
+              {
+                "value": "Divorcé(e)"
+              },
+              {
+                "value": "Veuf(ve)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "35ad60f2",
+      "title": "Nombre d'enfants ",
+      "questionItem": {
+        "question": {
+          "questionId": "42f03660",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3a506f0e",
+      "title": "Niveau d'instruction ",
+      "questionItem": {
+        "question": {
+          "questionId": "3f59c60c",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Aucun"
+              },
+              {
+                "value": "Primaire"
+              },
+              {
+                "value": "Lycée"
+              },
+              {
+                "value": "Universitaire"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7278655a",
+      "title": "Ville de résidence ",
+      "questionItem": {
+        "question": {
+          "questionId": "3abcd03f",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5f7082fb",
+      "title": "Profession\n",
+      "questionItem": {
+        "question": {
+          "questionId": "68116643",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7f4560c2",
+      "title": "Langage ",
+      "questionItem": {
+        "question": {
+          "questionId": "08b2b9f4",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Parlé"
+              },
+              {
+                "value": "Compris"
+              },
+              {
+                "value": "Lu"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "6a82f2dc",
+      "pageBreakItem": {},
+      "title": "Personne pouvant être contacté "
+    },
+    {
+      "itemId": "4c90fb79",
+      "title": "Nom",
+      "questionItem": {
+        "question": {
+          "questionId": "7523c6c1",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4732da6e",
+      "title": "Prénom",
+      "questionItem": {
+        "question": {
+          "questionId": "55fb0a77",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "00d055a5",
+      "title": "Lien de parenté",
+      "questionItem": {
+        "question": {
+          "questionId": "1bf0b913",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1d6f9125",
+      "title": "Fixe",
+      "questionItem": {
+        "question": {
+          "questionId": "7e5ad806",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2f2c374b",
+      "title": "Mobile ",
+      "questionItem": {
+        "question": {
+          "questionId": "57743a69",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1e6b4546",
+      "title": "Adresse",
+      "questionItem": {
+        "question": {
+          "questionId": "35bbe1a4",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1fbbb947",
+      "pageBreakItem": {},
+      "title": "LA FICHE D'ACCUEIL DU PATIENT ",
+      "description": "Entrée"
+    },
+    {
+      "itemId": "0da6c62f",
+      "title": "Motif D'hospitalisation ",
+      "questionItem": {
+        "question": {
+          "questionId": "23f46d2c",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "58765bf5",
+      "title": "Date et Heure d'entrée ",
+      "questionItem": {
+        "question": {
+          "questionId": "09d664dd",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "1f129360",
+      "title": "Mode ",
+      "questionItem": {
+        "question": {
+          "questionId": "5e706dc3",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Urgence"
+              },
+              {
+                "value": "Consultation"
+              },
+              {
+                "value": "Programmé"
+              },
+              {
+                "value": "Transfert"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "136bc0b0",
+      "textItem": {},
+      "title": "Antécédents"
+    },
+    {
+      "itemId": "5835dba4",
+      "title": "Chirurgicaux",
+      "questionItem": {
+        "question": {
+          "questionId": "17b077dc",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "16e9d5e1",
+      "title": "Médicaux\n",
+      "questionItem": {
+        "question": {
+          "questionId": "1919e641",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7cf00da3",
+      "title": "Anesthésie ",
+      "questionItem": {
+        "question": {
+          "questionId": "4bc3c785",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "0acd0fb7",
+      "title": "Allergie",
+      "questionItem": {
+        "question": {
+          "questionId": "4d5b484f",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4492ba16",
+      "title": "Tabac",
+      "questionItem": {
+        "question": {
+          "questionId": "488aa8bf",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Femeur"
+              },
+              {
+                "value": "Non femeur"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "00e96c79",
+      "title": "Alcool",
+      "questionItem": {
+        "question": {
+          "questionId": "187dd93f",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "5f066115",
+      "title": "Drouguess(médicaments)",
+      "questionItem": {
+        "question": {
+          "questionId": "3461d087",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "324b1995",
+      "title": "Si oui lesquelles",
+      "questionItem": {
+        "question": {
+          "questionId": "0c52d428",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3007e579",
+      "textItem": {},
+      "title": "FICHE DE RECUEIL DE DONNEES",
+      "description": "N°1"
+    },
+    {
+      "itemId": "4df7a494",
+      "title": "Service",
+      "questionItem": {
+        "question": {
+          "questionId": "7ccd21f7",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7af908bf",
+      "title": "Date de recueil",
+      "questionItem": {
+        "question": {
+          "questionId": "70fbb515",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "14f04efa",
+      "title": "Identification de l'infirmièr (e)/aide soignant(e)",
+      "questionItem": {
+        "question": {
+          "questionId": "0d43680c",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "17893b06",
+      "title": "Recueil effectué avec la participation de la (famille/entourage)",
+      "questionItem": {
+        "question": {
+          "questionId": "1d84efe9",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "267fc4a0",
+      "title": "N°de chambre ",
+      "questionItem": {
+        "question": {
+          "questionId": "465caca7",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7cc7f8ea",
+      "title": "Motif D'hospitalisation ",
+      "questionItem": {
+        "question": {
+          "questionId": "5fdea9b3",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "59f52a76",
+      "textItem": {},
+      "title": "Les 14 besoins fondamentaux de Virginia Henderson"
+    },
+    {
+      "itemId": "6efa7f60",
+      "textItem": {},
+      "title": "1-RESPIRER"
+    },
+    {
+      "itemId": "7ddf271c",
+      "title": "Capacité fonctionnelles \nHabitude de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "0c7b0bce",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Respiration Normal"
+              },
+              {
+                "value": "Dyspnée"
+              },
+              {
+                "value": "Position 1/2 assise"
+              },
+              {
+                "value": "Position assise"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "627925b6",
+      "title": "Perturbation des besoins \nSource de difficultés ",
+      "questionItem": {
+        "question": {
+          "questionId": "3c339038",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7681d405",
+      "textItem": {},
+      "title": "2-BOIRE et MANGER"
+    },
+    {
+      "itemId": "10ae5feb",
+      "title": "Capacités fonctionnelles\nHabitudes de vie",
+      "questionItem": {
+        "question": {
+          "questionId": "3f58052b",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Mange seul"
+              },
+              {
+                "value": "Avec AP"
+              },
+              {
+                "value": "Avec AT"
+              },
+              {
+                "value": "Boit seul"
+              },
+              {
+                "value": "Avec Ap`"
+              },
+              {
+                "value": "Avec AT`"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "5e72521e",
+      "title": "Régime",
+      "questionItem": {
+        "question": {
+          "questionId": "31c42c19",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "62ebf03a",
+      "title": "Interdit alimentaire ",
+      "questionItem": {
+        "question": {
+          "questionId": "443d0faa",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "6ca8e017",
+      "title": "Perturbation des besoins \nSource de difficulté",
+      "questionItem": {
+        "question": {
+          "questionId": "04d4c737",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Risque de fausse route"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "3563ae7f",
+      "textItem": {},
+      "title": "3-ÉLIMINER"
+    },
+    {
+      "itemId": "0cddecec",
+      "title": "Capacités fonctionnelles \nHabitudes de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "2ae35977",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Continent urinaire"
+              },
+              {
+                "value": "Incontinent urinaire"
+              },
+              {
+                "value": "Continent fécal"
+              },
+              {
+                "value": "Incontinent fécal"
+              },
+              {
+                "value": "Va Aux Wc seul"
+              },
+              {
+                "value": "Avec aide"
+              },
+              {
+                "value": "Utilise des Laxatifs"
+              },
+              {
+                "value": "Tendance Diarrhéique"
+              },
+              {
+                "value": "Tendance Constipation"
+              },
+              {
+                "value": "Étui Pénien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "5e055db5",
+      "title": "Perturbation des besoins \nSource de difficulté",
+      "questionItem": {
+        "question": {
+          "questionId": "5e4bff8d",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Stomie"
+              },
+              {
+                "value": "Sonde vésicale à demeure"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "3350b27b",
+      "textItem": {},
+      "title": "4-SE MOUVOIR ET MAINTENIR UNE \nBONNE POSTURE"
+    },
+    {
+      "itemId": "200f1010",
+      "title": "Capacités fonctionnelles \nHabitudes de vie",
+      "questionItem": {
+        "question": {
+          "questionId": "43034785",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Autonome"
+              },
+              {
+                "value": "Se déplace seul"
+              },
+              {
+                "value": "A besoin d'aide"
+              },
+              {
+                "value": "Appui total"
+              },
+              {
+                "value": "Appui partiel"
+              },
+              {
+                "value": "Cannes"
+              },
+              {
+                "value": "Fauteuil roulant"
+              },
+              {
+                "value": "Déambulateur"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "40251383",
+      "title": "Perturbation des besoins\nSource de difficulté",
+      "questionItem": {
+        "question": {
+          "questionId": "6a10982f",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3f80dde4",
+      "textItem": {},
+      "title": "5-DORMIR ET SE REPOSER"
+    },
+    {
+      "itemId": "366605be",
+      "title": "Capacités fonctionnelles \nHabitudes de vie",
+      "questionItem": {
+        "question": {
+          "questionId": "092203f3",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Se couche seul"
+              },
+              {
+                "value": "A besoin d'aide"
+              },
+              {
+                "value": "A des insomnies"
+              },
+              {
+                "value": "Prend des somnifères"
+              },
+              {
+                "value": "Fait une sieste"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "2fec4be9",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "3ebcec57",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3fc87144",
+      "textItem": {},
+      "title": "6-SE VÊTIR ET SE DÉVÊTIR"
+    },
+    {
+      "itemId": "78e27576",
+      "title": "Capacité fonctionnelles \nHabitudes de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "7c5175d0",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "S'habille seul"
+              },
+              {
+                "value": "Avec AP"
+              },
+              {
+                "value": "Avec AT"
+              },
+              {
+                "value": "Se déshabille seul"
+              },
+              {
+                "value": "Avec AP`"
+              },
+              {
+                "value": "Avec AT`"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "5ba81550",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "05cfd5ba",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "36084b2a",
+      "textItem": {},
+      "title": "7-MAINTENIR LA TEMPÉRATURE DU CORPS "
+    },
+    {
+      "itemId": "3b7c3af6",
+      "title": "Capacité fonctionnelles \nHabitude de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "7f7f1633",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Frileux"
+              },
+              {
+                "value": "Souffre de chaleur"
+              },
+              {
+                "value": "Porte des lainages"
+              },
+              {
+                "value": "Porte des chaussttes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "71e6549e",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "07f0a3d5",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2a689001",
+      "textItem": {},
+      "title": "8- ÊTRE PROPRE "
+    },
+    {
+      "itemId": "48229580",
+      "title": "Capacité fonctionnelles \nHabitudes de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "5b274b3e",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Se laver seul"
+              },
+              {
+                "value": "Avec AP"
+              },
+              {
+                "value": "Avec AT"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "30afcc6a",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "25af2776",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "743fd93d",
+      "textItem": {},
+      "title": "9-ÉVITER LES DANGERS "
+    },
+    {
+      "itemId": "61c0ed55",
+      "title": "Capacité fonctionnelles \nHabitudes de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "4e9b45af",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Personne désorienté"
+              },
+              {
+                "value": "Agitée"
+              },
+              {
+                "value": "Angoissée"
+              },
+              {
+                "value": "Dépressif"
+              },
+              {
+                "value": "Dispositif médical implante"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "683fc623",
+      "title": "A préciser",
+      "questionItem": {
+        "question": {
+          "questionId": "74830c62",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "340e696e",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "444f1149",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Risque de chute"
+              },
+              {
+                "value": "Risque de fugue"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "02cb68ab",
+      "textItem": {},
+      "title": "10-COMMUNIQUER"
+    },
+    {
+      "itemId": "7652f79e",
+      "title": "Capacité fonctionnelles \nHabitude de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "646e053e",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Aime communiqué"
+              },
+              {
+                "value": "Exprime ses sentiments"
+              },
+              {
+                "value": "Expressions verbale normale"
+              },
+              {
+                "value": "Difficulté d'élocution"
+              },
+              {
+                "value": "Vision bonne"
+              },
+              {
+                "value": "Porte de lunette"
+              },
+              {
+                "value": "Non voyant"
+              },
+              {
+                "value": "Audition bonne"
+              },
+              {
+                "value": "Mal entendant"
+              },
+              {
+                "value": "Prothèse auditive"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "32593300",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "026fd32f",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "48e6f0dd",
+      "textItem": {},
+      "title": "11-AGIR SELON SES CROYANCES"
+    },
+    {
+      "itemId": "709bde27",
+      "title": "Capacités fonctionnelles \nHabitude de vie ",
+      "questionItem": {
+        "question": {
+          "questionId": "20e730a7",
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {
+                "value": "Fait la prière"
+              },
+              {
+                "value": "Normalement"
+              },
+              {
+                "value": "Assis"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "29331bee",
+      "title": "Perturbation des besoins \nSource de difficulté ",
+      "questionItem": {
+        "question": {
+          "questionId": "5156a9a6",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "52e6a536",
+      "textItem": {},
+      "title": "12-SE RÉALISER "
+    },
+    {
+      "itemId": "3f3d143b",
+      "title": "Capacités fonctionnelles \nHabitude de vie",
+      "questionItem": {
+        "question": {
+          "questionId": "31cc7466",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Aime lire"
+              },
+              {
+                "value": "Aime écrire"
+              },
+              {
+                "value": "Aime la radio"
+              },
+              {
+                "value": "La Tv"
+              },
+              {
+                "value": "La musique"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7a2e9a6e",
+      "textItem": {},
+      "title": "13-DOULEUR"
+    },
+    {
+      "itemId": "70694956",
+      "title": "Existence d'une douleur exprimé ",
+      "questionItem": {
+        "question": {
+          "questionId": "6fe98247",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7b80e098",
+      "title": "Douleur physique ",
+      "questionItem": {
+        "question": {
+          "questionId": "7e91d17b",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "24c9ea74",
+      "title": "Traitement en cours",
+      "questionItem": {
+        "question": {
+          "questionId": "45b4e6ee",
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Oui"
+              },
+              {
+                "value": "Non"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "4fc6993d",
+      "pageBreakItem": {},
+      "title": "FICHE DE DÉMARCHE DE SOIN N°1"
+    },
+    {
+      "itemId": "4c827db8",
+      "title": "Service ",
+      "questionItem": {
+        "question": {
+          "questionId": "68dad7e9",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "25da4285",
+      "title": "Nom",
+      "questionItem": {
+        "question": {
+          "questionId": "2595e1f6",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "625b7d6b",
+      "title": "Prénom",
+      "questionItem": {
+        "question": {
+          "questionId": "6ec019b4",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "6e5bd48a",
+      "title": "Date",
+      "questionItem": {
+        "question": {
+          "questionId": "161f5df6",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "586811f7",
+      "title": "Identification de l'infirmier(e)/aide soignant(e)",
+      "questionItem": {
+        "question": {
+          "questionId": "78fdb0b7",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7984df87",
+      "textItem": {},
+      "title": "Diagnostic infirmier "
+    },
+    {
+      "itemId": "6cc0f319",
+      "title": "Problème,Risque",
+      "questionItem": {
+        "question": {
+          "questionId": "68a43172",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "0666689a",
+      "title": "Objectif de la prise en charge ",
+      "questionItem": {
+        "question": {
+          "questionId": "1801429f",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7bfd79ae",
+      "title": "Action (intervetion infirmiers)",
+      "questionItem": {
+        "question": {
+          "questionId": "7dffe851",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "5dbc47be",
+      "title": "Evaluation",
+      "questionItem": {
+        "question": {
+          "questionId": "4f684080",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "09d6f967",
+      "pageBreakItem": {},
+      "title": "FICHE D'EXAMENS COMPLEMENTAIRES N°1"
+    },
+    {
+      "itemId": "62f5bb84",
+      "textItem": {},
+      "title": "Exman Biologique "
+    },
+    {
+      "itemId": "3d447ccf",
+      "title": "La date ",
+      "questionItem": {
+        "question": {
+          "questionId": "29ca032a",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7be24478",
+      "title": "Médecin prescripteur",
+      "questionItem": {
+        "question": {
+          "questionId": "7b9cdb88",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "24c2dec9",
+      "title": "Prescriptions",
+      "questionItem": {
+        "question": {
+          "questionId": "693f1e90",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "26ef57a7",
+      "title": "L'ISP",
+      "questionItem": {
+        "question": {
+          "questionId": "30c44dc9",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "558a834c",
+      "title": "ÉMARGEMENT ",
+      "questionItem": {
+        "question": {
+          "questionId": "00938875",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "6dac283c",
+      "textItem": {},
+      "title": "Exman Radiologique "
+    },
+    {
+      "itemId": "06079bd8",
+      "title": "Date",
+      "questionItem": {
+        "question": {
+          "questionId": "77c4b8cf",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "1024b436",
+      "title": "Médecin prescripteur ",
+      "questionItem": {
+        "question": {
+          "questionId": "29e5c229",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "470efda1",
+      "title": "Prescription ",
+      "questionItem": {
+        "question": {
+          "questionId": "4a194031",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "4a23a575",
+      "title": "L'ISP",
+      "questionItem": {
+        "question": {
+          "questionId": "7713be5b",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4186658a",
+      "title": "ÉMARGEMENT ",
+      "questionItem": {
+        "question": {
+          "questionId": "01672a70",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7c8730b1",
+      "pageBreakItem": {},
+      "title": "Fiche de diagramme de soin"
+    },
+    {
+      "itemId": "54d016d5",
+      "title": "La date",
+      "questionItem": {
+        "question": {
+          "questionId": "5b674c57",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "1f27507b",
+      "title": "Heure",
+      "questionItem": {
+        "question": {
+          "questionId": "691ca24e",
+          "timeQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3f98cf20",
+      "title": "Soins",
+      "questionItem": {
+        "question": {
+          "questionId": "1e78eae2",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "2d6507d6",
+      "pageBreakItem": {},
+      "title": "Fiche de surveillance "
+    },
+    {
+      "itemId": "79017715",
+      "title": "La date ",
+      "questionItem": {
+        "question": {
+          "questionId": "0821603e",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "2b0f397d",
+      "title": "Heure",
+      "questionItem": {
+        "question": {
+          "questionId": "4bc04abe",
+          "timeQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7d483b29",
+      "title": "Constantes",
+      "questionItem": {
+        "question": {
+          "questionId": "4d779c1c",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "356202cf",
+      "pageBreakItem": {},
+      "title": "La fiche de transmission "
+    },
+    {
+      "itemId": "1429b110",
+      "textItem": {},
+      "title": "Transmission ciblé"
+    },
+    {
+      "itemId": "0bba1bed",
+      "title": "La date",
+      "questionItem": {
+        "question": {
+          "questionId": "6b046678",
+          "dateQuestion": {
+            "includeYear": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "04d24e49",
+      "title": "Heure",
+      "questionItem": {
+        "question": {
+          "questionId": "54cf9fe9",
+          "timeQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4b42109a",
+      "title": "Nom fonction",
+      "questionItem": {
+        "question": {
+          "questionId": "56a33bdd",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2aac2616",
+      "title": "Cible",
+      "questionItem": {
+        "question": {
+          "questionId": "4dfd0483",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "505092dc",
+      "title": "Donné ",
+      "questionItem": {
+        "question": {
+          "questionId": "5f777493",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "6b3cdb66",
+      "title": "Action",
+      "questionItem": {
+        "question": {
+          "questionId": "0c558df2",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "66737d76",
+      "title": "Résultat",
+      "questionItem": {
+        "question": {
+          "questionId": "1b13af27",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    }
+  ]
+}
